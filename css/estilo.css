@@ -1,0 +1,13 @@
+section {
+  background-color: turquoise;
+  width: 30rem; }
+
+div {
+  list-style: none; }
+  div li {
+    padding: 1rem;
+    display: inline-block;
+    color: red; }
+  div a {
+    text-decoration: none;
+    font-size: 1rem; }
